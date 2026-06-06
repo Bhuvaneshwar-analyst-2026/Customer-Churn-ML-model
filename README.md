@@ -185,4 +185,3 @@ Applied the best Logistic Regression model to 500 customers in the Implementatio
 
 ---
 
-> **Data Source:** BAN 614 Machine Learning course dataset — University of Dayton
